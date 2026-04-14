@@ -1,5 +1,5 @@
 ---
-name: event-architect
+name: event-architect-skill
 description: >
   活动方案策划智能助手。从一句话需求出发，自动生成包含创意方向、执行流程、
   预算明细、物料清单和应急预案的完整活动策划案。支持团建、年会、发布会、
@@ -7,7 +7,7 @@ description: >
   当用户提到"活动策划""团建方案""年会策划""发布会方案""活动流程"时触发。
 ---
 
-# Event Architect —— 活动方案策划智能助手
+# Event Architect Skill —— 活动方案策划智能助手
 
 ## 概述
 

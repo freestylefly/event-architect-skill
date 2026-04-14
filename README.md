@@ -1,4 +1,4 @@
-# Event Architect —— 活动方案策划智能助手
+# Event Architect Skill —— 活动方案策划智能助手
 
 > 活动的成功 = 30% 的创意 + 70% 的执行细节。让 AI 帮你搞定那 70%。
 
